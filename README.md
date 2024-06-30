@@ -1,16 +1,24 @@
 # retro_game_box
+# 레트로 게임 모음
 
-A new Flutter project.
+### 안드로이드 앱 레트로 게임 모음을 플러터로 마이그레이션
 
-## Getting Started
+### 기능 목록
+- [ ] 로그인
+  - [ ] Firebase 연동
+  - [ ] 프로필 생성과 연동
+- [ ] 홈 화면
+  - [ ] BASE UI 구축
+  - [ ] 홈 화면 내 애니메이션 노출
+- [ ] 게임 구현
+  - [ ] 인형 뽑기 게임
+  - [ ] 새 날리기 게임
+  - [ ] 오토 체스 게임
+  - [ ] 인내의 숲 게임
+- [ ] 랭킹 구현
+  - [ ] 공유 기능
+  - [ ] 친구 추가 & 삭제
+  - [ ] 친구만의 기록 노출
+  - [ ] 전체 유저 기록 노출
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 라이브러리
