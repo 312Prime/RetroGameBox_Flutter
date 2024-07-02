@@ -11,12 +11,6 @@ buildscript {
     }
 }
 
-android {
-    defaultConfig{
-        applicationId "com.project.retrogamebox"
-    }
-}
-
 allprojects {
     repositories {
         google()
