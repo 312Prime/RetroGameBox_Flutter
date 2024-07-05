@@ -1,6 +1,7 @@
-package com.example.retro_game_box
+package com.project.retrogamebox
 
 import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity: FlutterActivity() {
+
 }
